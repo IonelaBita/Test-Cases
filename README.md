@@ -12,11 +12,9 @@ Validate sorting filters are shown alphabetically
 
 Access www.wantsomeshop.ro
 
-
 **Test Steps*
 
 1. Select a category
-
 2. Click on sorting button
 
 **Expected Result**
@@ -57,7 +55,7 @@ Test if the "IULIE2021" voucher can be applied to the cart
 **Test Steps**
 
 1. Enter the cart page
-2. Click on the Coupon Code section, enter the coupon code and press the button "Apply coupon".
+2. Click on the Coupon Code section, enter the coupon code and press the button "Apply coupon"
 
 **Expected Result:**
 
@@ -69,6 +67,47 @@ Cupon Code: Iulie2021
 
 
 --------------------
+
+
+**Title**
+
+Check the quantity selection button without introducing a specific quantity
+
+**Precondition**
+
+Access www.wantsomeshop.ro
+
+**Test Steps**
+
+1. Click on product name selected from collection dispayed
+2. Click on add to cart without clicking on quantity selection button
+
+**Expected Result**
+
+A message should be displayed and invite user/customer to select quantity.
+
+
+--------------------
+
+
+**Title**
+
+Check the functionality of the quantity selection button
+
+**Precondition**
+
+Access www.wantsomeshop.ro
+
+**Test Steps**
+1. Click on product name selected from collection dispayed
+2. Introduce special characters and letters in the box where appears the number of products selected
+
+**Expected Result**
+The box from quantity selection button should not list any changes in number of products and neither the price should be updated.
+
+**Test Data:**
+
+;&?
 
 
 
