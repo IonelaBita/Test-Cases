@@ -18,6 +18,7 @@ Access www.wantsomeshop.ro
 2. Click on sorting button
 
 **Expected Result**
+
 Drop-down menu sorted alphabetically should appear.
 
 
