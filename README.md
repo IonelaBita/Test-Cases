@@ -12,7 +12,7 @@ Validate sorting filters are shown alphabetically
 
 Access www.wantsomeshop.ro
 
-**Test Steps*
+**Test Steps**
 
 1. Select a category
 2. Click on sorting button
